@@ -1,0 +1,17 @@
+.contador{
+    background-color: #222;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    color: white;
+    place-content: center;
+    align-items: center;
+    border-radius: .3rem;
+}
+.button{
+    padding: .8rem;
+    border-radius: .7rem;
+}
+.number{
+    font-size: 1.3rem;
+}
