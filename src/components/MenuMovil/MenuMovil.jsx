@@ -1,4 +1,4 @@
-import React from 'react'
+import './menu.css'
 
 function MenuMovil() {
   return (
