@@ -1,12 +1,13 @@
 import './App.css'
-import Menu from './components/MenuMovil/MenuMovil';
+import Card from './components/Card/card';
 
 
 function App() {
   
   return (
     <>
-        <Menu />
+    <h1>Correcto</h1>
+    <Card></Card>
     </>
   )
 }
