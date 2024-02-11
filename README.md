@@ -1,5 +1,10 @@
-# React + Vite
-Server npm run dev
+# React Components
+
+<img src="https://github.com/Daniel-L10N/Personal_notes/blob/main/assets/icons/Lenguages%20of%20programing/React.jpg?raw=true" style="width:544px;height:200px;"><br/><br/>
+
+
+### React + Vite
+Server "npm run dev" o pnpm dev"
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
